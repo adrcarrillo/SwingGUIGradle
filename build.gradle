@@ -17,7 +17,7 @@ dependencies {
     compile 'com.intellij:forms_rt:7.0.3' //Intellij GUI form libs
 }
 
-mainClassName = 'com.arn.swingtest.App'
+mainClassName = 'com.arn.swingform.App'
 
 /*
 application {

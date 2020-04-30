@@ -1,4 +1,4 @@
-package com.arn.swingtest;
+package com.arn.swingform;
 
 import com.formdev.flatlaf.FlatIntelliJLaf;
 
